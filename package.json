@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/AndresNakanishi/configurations/issues"
   },
-  "homepage": "https://github.com/AndresNakanishi/configurations#readme"
+  "homepage": "https://github.com/AndresNakanishi/configurations#readme",
+  "devDependencies": {
+    "eslint": "^8.14.0"
+  }
 }
