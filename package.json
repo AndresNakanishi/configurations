@@ -1,0 +1,22 @@
+{
+  "name": "configurations",
+  "version": "1.0.0",
+  "description": "Starter Configuration for any project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresNakanishi/configurations.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Andrés Nakanishi <andresnakanishi@gmail.com> (https://andresnakanishi.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndresNakanishi/configurations/issues"
+  },
+  "homepage": "https://github.com/AndresNakanishi/configurations#readme"
+}
